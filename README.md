@@ -169,5 +169,3 @@ Masukkan nama: Alice
 ✅ Nama ditambahkan!
 ```
 
-CRUD ini simpel, cocok untuk latihan Golang. 🚀
-
