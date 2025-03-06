@@ -1,6 +1,6 @@
 # CRUD Sederhana Golang
 
-Project ini memungkinkan user menambah, melihat, mengubah, dan menghapus nama dalam daftar.
+Project ini memungkinkan kita membuat, melihat, mengupdate, dan menghapus nama dalam daftar.
 
 ## Cara Menjalankan
 1. Install Golang
